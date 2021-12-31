@@ -1,0 +1,47 @@
+.page{
+
+
+background-image: url(https://images.unsplash.com/photo-1625411704295-fbf924ec1241?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80);
+
+background-size: cover;
+
+}
+
+
+
+h1{
+
+color: #f1e6c8;
+
+    margin: 150px;
+text-align: center;
+    
+
+
+
+
+}
+
+.btn-danger{
+ 
+margin: 0px 500px 0px 600px;
+padding: right 100px;    
+text-align: center;
+
+    
+
+background-color: navy;
+
+
+}
+
+
+footer{
+
+
+    margin: 100px;
+text-align: center;
+
+color: white;
+
+}
